@@ -1,23 +1,23 @@
 Umweltanalyse
-1. Bestimmung der relevanten Kräfte in den Sektoren und
+1. Bestimmung der relevanten KrÃ¤fte in den Sektoren und
 Prognose der jeweiligen Entwicklung
 
 
-2. Analyse der Querverbindungen zwischen den Kräften
+2. Analyse der Querverbindungen zwischen den KrÃ¤ften
 
 
 3. Entwurf alternativer Szenarien
 
 
-4. Festlegung der Prämissen (Chancen, Risiken!) für den
+4. Festlegung der PrÃ¤missen (Chancen, Risiken!) fÃ¼r den
 weiteren Planungsprozess
 
 Unternehmensanalyse
 
-1. Wertschöpfungszentriert (inside-out)
+1. WertschÃ¶pfungszentriert (inside-out)
 
 
-2. Kundenzentriert (outside-in)
+2. Kundenzentriert (outside-in) Thao
 
 
 3????
@@ -25,5 +25,5 @@ Unternehmensanalyse
 
 4????
 
-Präsentierer: 	Sven
+PrÃ¤sentierer: 	Sven
 	    :	
