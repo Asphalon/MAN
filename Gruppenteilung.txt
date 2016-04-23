@@ -8,7 +8,7 @@ Unternehmensanalyse:
 	Stärken/Schwächen  Jasmin 
 Umweltanalyse:
 	Wettbewerber   +Sean
-	pot. Konkurrenten
+	pot. Konkurrenten (Dascha)
 	Lieferanten (Thao)
 	Abnehmer
 	Substitutionsprodukte
