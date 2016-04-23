@@ -10,7 +10,7 @@ Umweltanalyse:
 	Wettbewerber   +Sean
 	pot. Konkurrenten (Dascha)
 	Lieferanten (Thao)
-	Abnehmer
+	Abnehmer - Phuong
 	Substitutionsprodukte
 
 
