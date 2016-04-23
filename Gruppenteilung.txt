@@ -7,7 +7,7 @@ Unternehmensanalyse:
 	Potentiale
 	Stärken/Schwächen
 Umweltanalyse:
-	Wettbewerber
+	Wettbewerber   +Sean
 	pot. Konkurrenten
 	Lieferanten
 	Abnehmer
