@@ -9,7 +9,7 @@ Unternehmensanalyse:
 Umweltanalyse:
 	Wettbewerber   +Sean
 	pot. Konkurrenten
-	Lieferanten
+	Lieferanten (Thao)
 	Abnehmer
 	Substitutionsprodukte
 
