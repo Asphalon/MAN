@@ -10,7 +10,7 @@ Umweltanalyse:
 	Wettbewerber   +Sean —>FERTIG
 	pot. Konkurrenten (Dascha) —>FERTIG
 	Lieferanten (Thao) -> FERTIG
-	Abnehmer - Phuong
+	Abnehmer - Phuong -> FERTIG
 	Substitutionsprodukte - (Hamid) 
 
 
